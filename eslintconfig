@@ -1,0 +1,23 @@
+{
+  // npm i prettier eslint-config-prettier eslint-plugin-prettier -D
+  "extends": ["react-app", "plugin:prettier/recommended"]
+}
+
+/*
+  {
+  "prettier.eslintIntegration": true,
+  "json.format.enable": true,
+  "editor.fontSize": 12,
+  "workbench.colorTheme": "Monokai",
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.formatOnSave": false
+  },
+  "eslint.autoFixOnSave": true,
+  "eslint.alwaysShowStatus": true,
+  "prettier.disableLanguages": ["js"],
+  "window.zoomLevel": -1,
+  "editor.tabSize": 2
+}
+
+*/
